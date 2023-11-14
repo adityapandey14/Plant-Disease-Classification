@@ -4,6 +4,7 @@ This dataset is created using offline augmentation from the original dataset. Th
 ![Plantdoc Examples](PlantDoc_Examples.png)
 
 ## Installation
-```!pip install torchsummary
+```python
+import torchsummary
 
 
