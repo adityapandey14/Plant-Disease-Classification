@@ -5,6 +5,5 @@ This dataset is created using offline augmentation from the original dataset. Th
 
 ## Installation
 ```python
-import torchsummary
-
+pip install torchsummary
 
